@@ -18,14 +18,18 @@ They have contracted a consulting company to understand the factors on which the
 -  Which variables are significant in predicting the demand for shared bikes.
 -  How well those variables describe the bike demands
 
-### dataset
+### Dataset
 A csv file which contains the daily bike demands across the American market based on some factors.
 
 ## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
+Significant variables to predict the demand for shared bikes are:
+- year
+- workingday
+- windspeed
+- Season (Spring)
+- weathersit (Light Rain/Snow, Mist + Cloudy)
+- Months (March, September, November, December)
+- weekday (Saturday)
 
 ## Technologies Used
 - Pandas - version  2.1.4
